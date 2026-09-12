@@ -6,7 +6,7 @@ class Solution(object):
         :rtype: List[int]
         """
         count={}
-        n=[]
+        
 
         for i in nums:
             if i in count:
