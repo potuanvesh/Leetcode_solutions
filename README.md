@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1544-make-the-string-great](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1544-make-the-string-great) |
 ## Simulation
 |  |
 | ------- |
@@ -28,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
