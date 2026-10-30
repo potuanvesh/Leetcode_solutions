@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0682-baseball-game](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -70,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
