@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1189-maximum-number-of-balloons](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
