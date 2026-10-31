@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [1441-build-an-array-with-stack-operations](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
