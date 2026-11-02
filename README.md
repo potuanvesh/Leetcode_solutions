@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
