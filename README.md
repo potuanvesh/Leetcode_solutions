@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
 | ------- |
