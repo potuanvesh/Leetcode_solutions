@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
