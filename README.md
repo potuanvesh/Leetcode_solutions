@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0326-power-of-three) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Floyd's Cycle Finding Algorithm
