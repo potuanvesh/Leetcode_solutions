@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sliding Window
 |  |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
