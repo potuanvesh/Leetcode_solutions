@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1672-richest-customer-wealth](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3693-climbing-stairs-ii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Stack
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1544-make-the-string-great) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Bracket Sequences
 |  |
 | ------- |
