@@ -1,9 +1,5 @@
-class Solution(object):
-    def maximumWealth(self, accounts):
-        """
-        :type accounts: List[List[int]]
-        :rtype: int
-        """
+class Solution:
+    def maximumWealth(self, accounts: list[list[int]]) -> int:
         m=[]
         
         for i in range(len(accounts)):
@@ -11,6 +7,4 @@ class Solution(object):
             m.append(sum(accounts[i]))
             
         return max(m)
-        
-
         
