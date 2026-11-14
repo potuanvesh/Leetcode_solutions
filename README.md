@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1672-richest-customer-wealth](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [3693-climbing-stairs-ii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
