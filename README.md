@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3693-climbing-stairs-ii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
 |  |
 | ------- |
@@ -171,4 +172,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
