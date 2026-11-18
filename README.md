@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3467-transform-array-by-parity](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3693-climbing-stairs-ii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
+| [3731-find-missing-elements](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Stack
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3731-find-missing-elements](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3467-transform-array-by-parity](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
