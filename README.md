@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3467-transform-array-by-parity](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3467-transform-array-by-parity) |
 | [3693-climbing-stairs-ii](https://github.com/potuanvesh/Leetcode_solutions/tree/master/3693-climbing-stairs-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/potuanvesh/Leetcode_solutions/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/potuanvesh/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/potuanvesh/Leetcode_solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
